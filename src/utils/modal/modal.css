@@ -1,0 +1,3 @@
+.dotted-line {
+  background-image: repeating-linear-gradient(to right, transparent, transparent 5px, gray 5px, gray 10px);
+}
